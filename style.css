@@ -1,0 +1,17 @@
+main {
+  width: 100%;
+  min-height: 100vh;
+  padding: 4rem 0;
+  background-color: #f5f7f8;
+}
+
+.app-container {
+  max-width: 600px;
+  padding: 0 2rem;
+  margin: 0 auto;
+  min-height: 600px;
+}
+
+.text-line-through {
+  text-decoration: line-through;
+}
